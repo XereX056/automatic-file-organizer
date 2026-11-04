@@ -88,6 +88,13 @@ automatic-file-organizer/
 ├── README.md
 └── organizer.log
 ```
+## Screenshots
+
+### Preview Mode
+![Preview Mode](screenshots/preview-mode.png)
+
+### Move Mode
+![Move Mode](screenshots/move-mode.png)
 
 ## Author
 
